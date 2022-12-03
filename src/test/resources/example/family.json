@@ -1,0 +1,23 @@
+{
+  "family": "Smith",
+  "id": 1234,
+  "status": true,
+  "composition":[
+    {
+      "name": "Adam",
+      "age": 42
+    },
+    {
+      "name": "Amanda",
+      "age": 39
+    },
+    {
+      "name": "Samanta",
+      "age": 17
+    },
+    {
+      "name": "Tony",
+      "age": 9
+    }
+  ]
+}
